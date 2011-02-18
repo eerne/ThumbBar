@@ -1,0 +1,26 @@
+name: OverScroll
+
+current: 0.1.0
+
+web: "[github.com/eerne/OverScroll](http://github.com/eerne/OverScroll)"
+
+description: "Tween in any container on mouseenter, useful for image caption or to show/hide thumbnails with rpflorence/SlideShow"
+
+authors: "[Enrique Erne](http://mild.ch/)"
+
+license: "MIT License"
+
+copyright: "&copy; 2010, Enrique Erne"
+
+sources:
+  - "Source/OverScroll"
+  
+# Values for MooTools forge
+  
+author: tofu
+
+demo: http://2011.mild.ch/projects/overscroll.html
+
+category: interface
+
+tags: [menu, scroll]
