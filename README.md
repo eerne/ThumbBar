@@ -1,4 +1,4 @@
-OverScroll
+ThumbBar
 ==========
 
 Tween in any container on mouseenter, useful for image caption or to show/hide thumbnails with rpflorence/SlideShow
@@ -19,4 +19,4 @@ Coming soon…
 Demo
 ----
 
-* [2011.mild.ch/projects/overscroll.html](http://2011.mild.ch/projects/overscroll.html)
+* [2011.mild.ch/projects/thumbbar.html](http://2011.mild.ch/projects/thumbbar.html)

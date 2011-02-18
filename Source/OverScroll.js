@@ -1,6 +1,6 @@
 /*
 ---
-name: OverScroll
+name: ThumbBar
 
 description: tween in any container on mouseenter, useful for image caption or to show/hide thumbnails with rpflorence/SlideShow
 
@@ -16,11 +16,11 @@ requires:
   - Core/Element.Dimensions
   - Core/Fx.Tween
 
-provides: [OverScroll]
+provides: [ThumbBar]
 ...
 */
 
-var OverScroll = new Class({
+var ThumbBar = new Class({
 	
 	Implements: [Options],
 	
