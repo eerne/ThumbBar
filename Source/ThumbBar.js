@@ -61,6 +61,7 @@ var ThumbBar = new Class({
 			full += item.x;
 		});
 		this.full = full;
+		this.container.setStyle('width', full);
 		
 		if (this.full > this.width) this.attach();
 		else this.detach();
