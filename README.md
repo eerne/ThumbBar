@@ -1,12 +1,12 @@
 ThumbBar
-==========
+========
 
-Tween in any container on mouseenter, useful for image caption or to show/hide thumbnails with rpflorence/SlideShow
+Show, hide and scroll thumbnails with rpflorence/SlideShow
 
 How to use
 ----------
 
-	var myCaption = new OverScroll(stocks, [options]);
+	var myCaption = new ThumbBar(thumbContainer, [options]);
 
 ### Options:
 
