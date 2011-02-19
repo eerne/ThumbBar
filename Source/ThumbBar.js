@@ -2,7 +2,7 @@
 ---
 name: ThumbBar
 
-description: tween in any container on mouseenter, useful for image caption or to show/hide thumbnails with rpflorence/SlideShow
+description: Show, hide and scroll thumbnails with rpflorence/SlideShow
 
 authors:
   - Enrique Erne (http://mild.ch/)

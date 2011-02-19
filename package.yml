@@ -4,7 +4,7 @@ current: 0.1.0
 
 web: "[github.com/eerne/ThumbBar](http://github.com/eerne/ThumbBar)"
 
-description: "Tween in any container on mouseenter, useful for image caption or to show/hide thumbnails with rpflorence/SlideShow"
+description: "Show, hide and scroll thumbnails with rpflorence/SlideShow"
 
 authors: "[Enrique Erne](http://mild.ch/)"
 
